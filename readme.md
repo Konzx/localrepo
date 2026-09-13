@@ -1,1 +1,1 @@
-# This is a test repo pushed from local repo.
+# This is a test repo pushed from local machine.
